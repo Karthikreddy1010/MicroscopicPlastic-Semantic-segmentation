@@ -2,6 +2,8 @@ Microplastic Image Segmentation
 
 This repository contains the implementation and experimental framework for microscopic microplastic image segmentation using a stage-adaptive attention encoder–decoder network with EfficientNetV2 as the backbone and multi-resolution feature fusion. The work focuses on addressing extreme foreground–background imbalance, translucent particles, and complex particle morphology in microscopic imagery.
 
+![](/image_MRFM.png)
+
 Key Contributions
 
 EfficientNetV2-B3based encoder with training-aware scaling

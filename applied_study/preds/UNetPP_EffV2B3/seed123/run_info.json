@@ -1,0 +1,8 @@
+{
+  "model": "UNetPP_EffV2B3",
+  "seed": 123,
+  "loss": "tfd",
+  "best_val_soft_dice": 0.8196789622306824,
+  "params_M": 14.981967,
+  "train_minutes": 37.00266112486521
+}

@@ -1,0 +1,8 @@
+{
+  "model": "SegFormer_MiTB2",
+  "seed": 42,
+  "loss": "tfd",
+  "best_val_soft_dice": 0.8179648518562317,
+  "params_M": 24.722369,
+  "train_minutes": 46.701018186410266
+}

@@ -1,0 +1,8 @@
+{
+  "model": "DeepLabV3P_EffV2B3",
+  "seed": 123,
+  "loss": "tfd",
+  "best_val_soft_dice": 0.8114094138145447,
+  "params_M": 13.247655,
+  "train_minutes": 40.597056583563486
+}

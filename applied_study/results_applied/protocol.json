@@ -1,0 +1,12 @@
+{
+  "data_root": "repo/Microscopic_plastic_dataset",
+  "pred_root": "preds",
+  "out": "results_applied",
+  "reference": "Proposed",
+  "min_area": 20,
+  "bf_tol": 3,
+  "um_per_px": null,
+  "n_val": 100,
+  "n_test": 100,
+  "n_blank": 100
+}

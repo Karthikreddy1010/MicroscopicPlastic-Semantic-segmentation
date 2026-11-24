@@ -1,0 +1,8 @@
+{
+  "model": "UNet_ResNet34",
+  "seed": 123,
+  "loss": "tfd",
+  "best_val_soft_dice": 0.8212241530418396,
+  "params_M": 24.436369,
+  "train_minutes": 35.35482653776805
+}

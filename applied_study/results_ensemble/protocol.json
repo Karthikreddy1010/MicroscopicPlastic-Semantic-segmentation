@@ -1,0 +1,13 @@
+{
+  "data_root": "../Microscopic_plastic_dataset",
+  "pred_root": "../../preds_ensemble",
+  "out": "../../results_ensemble",
+  "reference": "Proposed",
+  "min_area": 20,
+  "split_dist": 0,
+  "bf_tol": 3,
+  "um_per_px": null,
+  "n_val": 100,
+  "n_test": 100,
+  "n_blank": 100
+}
